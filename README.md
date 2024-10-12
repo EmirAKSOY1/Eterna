@@ -1,4 +1,4 @@
-
+If you want the .env file, you can reach me via e-mail.
 ## Installation
 
 ```bash
